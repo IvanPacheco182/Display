@@ -14,21 +14,24 @@
 
 Material utilizado:
 
-•	1 LED
+• 1 Placa arduino
 
-•	9 resistores delimitadores de 3300 Ω
+•	4 resistencias de 10 k
 
-•	1 Buzzer
+•	2 push button
 
-•	1 Display de 7 segmentos
+•	1 Display LCD
 
-•	1 Reed switch
+•	1 potenciometro 10 k
 
-•	cables macho - macho (20 aproximadamente)
+•	1 sensor de humedad y temperatura
 
 •	1 protoboard
 
-•	1 placa Arduino
+• 1 fotoresistor
+
+• 30 cables para puntear aprox
+
 
 ***
 ## circuito 
