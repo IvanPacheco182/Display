@@ -248,11 +248,11 @@ void loop() {
 
 ## evidencia
 
-![evidencia](Evidencia/Img1.jpg)
-![evidencia](Evidencia/Img2.jpg)
-![evidencia](Evidencia/Img3.jpg)
-![evidencia](Evidencia/Img4.jpg)
-![evidencia](Evidencia/Img5.jpg)
+![evidencia](Evidencia/img1.jpg)
+![evidencia](Evidencia/img2.jpg)
+![evidencia](Evidencia/img3.jpg)
+![evidencia](Evidencia/img4.jpg)
+![evidencia](Evidencia/img5.jpg)
 
 
 ## contacto
