@@ -3,30 +3,23 @@
 ***
 ## indice 
 + [descripcion del programa](#descripcion)
++ [funcionalidad](#funcionalidad)
 + [circuito en digital](#circuito)    
 + [codigo en arduino](#codigo)
 + [Evidencia (fotos)](#evidencia)
 + [Contacto](#contacto)
 ***
 ## Descripcion   
-Realice un sistema de despliegue de mensajes en una pantalla LCD, 
-el objetivo es que al llegar el individuo puedas ver un pequeño tablero electronico con una serie de mensajes o notas almacenados.
 
-	Cada mensaje tiene las siguientes caracterisiticas 
-		* Tienes que mostrar el mensaje que se entienda, con solo 140 caracteres de espacio.
-		*Debe de mostrar fecha y hora en la que fue emitido el mensaje.
-		*Además debe de mostrar un mensaje del estdo del tiempo (temperatura, luminocidad, humedad). 
-    
-    
-El sistema debe de contener; 
-		*Una interfaz de Hardware para navegar entre los mensajes. 
-		*Una interfaz de software para enviar los mensajes desde la computadora via serial.
-		*La interfaz de software debe permitir agregar mensajes y/ó borrarlos.
-		
-**Proposito.**
+El presente proyecto consta de una conexion por comunicacion serial hacia un arduino con display desde una interfaz de java.  
 
-	El proposito educativo a denotar en esta practica es el uso de la comunicacion serial entre arduino y un lenguaje de programacion,
-	en este caso se utilizo java con ayuda de Netbeans.
+Hay que tener en consideracion ciertas librerias que se utilizan para tanto java como el desarrollo en arduino:
+
+JAVA: RXTX Esta libreria nos ayudara en Java con la comunicacion serial.
+
+LiquidCrystal: Esta biblioteca permite que una placa Arduino controle las pantallas LiquidCrystal (LCD) basadas en el chipset Hitachi HD44780 (o un compatible), que se encuentra en la mayoría de las LCD basadas en texto.
+
+Librería DHT: La librería DHT es la que permite la comunicación con los sensores DHT11 y DHT22, sensores de humedad/temperatura.
 
 
 Material utilizado:
@@ -48,6 +41,19 @@ Material utilizado:
 • 1 fotoresistor
 
 • 30 cables para puntear aprox
+
+
+## funcionalidad
+
+El proyecto presentado muestra información de sensores de luz, humedad y temperatura que se despliega en una pantalla LCD. También toma la hora actual y un mensaje generado en una interfaz java que de igual forma se muestra en la pantalla. Todo esto mediante una conección entre Arduino y Java. En java, a travez de netbeans se nos muestra un menú con las diferentes opciones en el siguiente orden:
+
+-Hora actual
+-Temperatura
+-Intencidad de luz
+-Humedad
+-Mensaje
+
+![funcionalidad](/interfaz.JPG)
 
 
 ***
