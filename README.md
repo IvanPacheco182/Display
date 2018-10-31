@@ -35,7 +35,7 @@ Material utilizado:
 
 ***
 ## circuito 
-![circuito](/Diagrama.png)
+![circuito](/Diseño.jpg)
 ***
 ## codigo en arduino
 ~~~
@@ -248,15 +248,25 @@ void loop() {
 
 ## evidencia
 
-![evidencia](/Img1.jpg)
-![evidencia](/Img2.jpg)
+![evidencia](Evidencia/Img1.jpg)
+![evidencia](Evidencia/Img2.jpg)
+![evidencia](Evidencia/Img3.jpg)
+![evidencia](Evidencia/Img4.jpg)
+![evidencia](Evidencia/Img5.jpg)
 
 
 ## contacto
 ~~~
 
-Elaborado por: Oscar Iván Pacheco Vargas
-correo: heavy.pacheco@gmail.com
+Elaborado por: 
+Oscar Iván Pacheco Vargas
+heavy.pacheco@gmail.com
+
+Carlos Leonardo Luna Castillo
+carl_dharius@hotmail.com
+
+Erick Alejandro Ochoa González
+Erick.8a@gmail.com
 
 
 ~~~
