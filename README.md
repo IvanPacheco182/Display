@@ -35,7 +35,7 @@ Material utilizado:
 
 ***
 ## circuito 
-![circuito](/Diseño.jpg)
+![circuito](/Diseño.JPG)
 ***
 ## codigo en arduino
 ~~~
